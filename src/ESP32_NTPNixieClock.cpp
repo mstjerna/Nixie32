@@ -33,7 +33,7 @@
 
     The connections between the ESP32 board and the Nixie Clock Shield are as follows:
 
-    ESP32 Pin    Shield Pin          Function
+    ESP32 Pin    Shield Pin          Function (needs to be update)
     --------------------------------------------------------------------
         GIOP18        SCK        SPI Clock
         GIOP23        MOSI       Master Out Slave In (data from ESP32->clock)
